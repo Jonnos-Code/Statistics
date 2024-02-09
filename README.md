@@ -12,7 +12,7 @@ Added files are documented and improved versions of code notebooks given in lect
 ### Distribution Sampling and Simulations
 - Generating numbers from any probability density function
 - Simulations of random scenarios
-### Monte Carlo Method for Integration
+### Integrating with Monte Carlo Method
 - Concepts
 - Step-by-step implementation
 - Full functionality
