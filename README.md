@@ -4,15 +4,15 @@ Coursework about the statistical applications of Python
 Added files are documented and improved versions of code notebooks given in lectures
 
 ## Contents:
-### Approximations of Random Numbers 
+### [Approximations of Random Numbers](Approximations_of_Random_Numbers.ipynb)
 - Pseudorandom Number Generator
 - Normal Distribution from libraries
 - Statistical functions & visualization
 - Introduction to Monte Carlo method
-### Distribution Sampling and Simulations 
+### [Distribution Sampling and Simulations](Distribution_Sampling_and_Simulations.ipynb)
 - Generating numbers from any probability density function
 - Simulations of random scenarios
-### Integrating with Monte Carlo Method 
+### [Integrating with Monte Carlo Method](Integrating_with_Monte_Carlo_Method.ipynb)
 - Concepts
 - Step-by-step implementation
 - Full functionality
