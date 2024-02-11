@@ -3,7 +3,7 @@ Coursework about the statistical applications of Python
 
 Added files are documented and improved versions of code notebooks given in lectures
 
-## Contents:
+## Contents
 ### [Approximations of Random Numbers](Approximations_of_Random_Numbers.ipynb)
 - Pseudorandom Number Generator
 - Normal Distribution from libraries
