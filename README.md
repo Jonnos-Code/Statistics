@@ -19,7 +19,13 @@ Added files are documented and improved versions of code notebooks given in lect
 - Visualization of results
 - Analyzing convergence
 
+### [Applied Neural Networks - Insect Classification](Insect_Classification.ipynb)
+- Basic Neural Network Implementation
+- Image Preprocessing
+- Dataset Management
+
 ## Colab Links
 - [Approximations of Random Numbers](https://colab.research.google.com/drive/1_P1-qMR2uImj7i4BjYNBappKqCLWZgMX?usp=sharing)
 - [Distribution Sampling and Simulations](https://colab.research.google.com/drive/1hx_KluFO6D08FgvKzt4RiE3j_fyKYTvc?usp=sharing)
 - [Integrating with Monte Carlo Method](https://colab.research.google.com/drive/1wom-Nxvtgua5b08gzwKKe69R33CTGi4q?usp=sharing)
+- [Applied Neural Networks - Insect Classification](https://colab.research.google.com/drive/1gvpDSHGOfeKa8wH54AHYW3_gfsozs3dd?usp=sharing)
